@@ -1,0 +1,11 @@
+Objetos = [5, 6.7, "Hola", False,'programacion', True, 9]
+print(Objetos)
+print (Objetos[2])
+print (Objetos[0])
+print (Objetos[0]+Objetos[1])
+print (Objetos[2]+' '+Objetos[4])
+print(len(Objetos))
+print(Objetos[5:8])
+print(Objetos[0:7:2])
+print(Objetos[::2])
+print(Objetos[::-2])
